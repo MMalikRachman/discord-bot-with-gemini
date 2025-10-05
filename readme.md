@@ -78,9 +78,6 @@ npm run dev
 - Reminders are checked every ~15s by an in-process scheduler.
 - Timezone for reminder texts is treated as **WIB (UTC+7)**.
 
-### Deploying
-- Includes `discloud.config` for deployment to Discloud; see the Discloud docs: [Discloud configuration guide](https://docs.discloudbot.com/discloud.config).
-
 ### Scripts
 - **Start**: `npm start`
 - **Dev (nodemon)**: `npm run dev`
